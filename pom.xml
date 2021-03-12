@@ -5,7 +5,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>org.example</groupId>
-  <artifactId>fatjar</artifactId>
+  <artifactId>ads-jar-shaded</artifactId>
   <version>1.0-SNAPSHOT</version>
 
   <dependencies>
